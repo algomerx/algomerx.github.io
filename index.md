@@ -1,3 +1,3 @@
-# Realizes algorithmic business thinking
+# Realizes algorithmic business
 
 ## Solutions
