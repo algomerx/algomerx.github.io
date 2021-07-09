@@ -1,1 +1,1 @@
-Algomerx
+# Enables digitialization strategy for algorithmic business
