@@ -1,1 +1,3 @@
-# Enables digitialization strategy for algorithmic business
+# Realizes algorithmic business thinking
+
+## Solutions
