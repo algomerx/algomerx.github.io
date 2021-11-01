@@ -10,18 +10,18 @@ Digitizes, converts and compresses files in your document archives at scale. Wit
 
 ### Scalable
 
-![Scalable](assets/img/capture-doc-2-orange-2x.png | width=100)
+![Scalable](assets/img/capture-doc-2-orange-2x.png)
 
 Whether you’re converting a handful of paper documents or millions of pages, our solutions are perfect for a single user, small business or enterprise.
 
 ### Accurate and effective
 
-![Accurate and effective](assets/img/target-orange-2x.png | width=100)
+![Accurate and effective](assets/img/target-orange-2x.png)
 
 Offers superior conversion accuracy, intelligent character recognition and zonal recognition, so you can quickly create editable documents.
 
 ### Simple
 
-![Simple](assets/img/database-orange-2x.png | width=100)
+![Simple](assets/img/database-orange-2x.png)
 
 Fast document conversion times increase productivity and enable a greater focus on more strategic work.
