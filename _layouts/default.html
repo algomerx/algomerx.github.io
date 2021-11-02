@@ -31,6 +31,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.show_twitter_message_button %}
+        <a href="https://twitter.com/messages/compose?recipient_id=" class="twitter-dm-button" data-size="large" data-show-screen-name="false" data-dnt="true" data-screen-name="@Algomerx" data-show-count="false">Message @Algomerx</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -48,6 +53,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+
         {% if site.show_theme_info %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         {% endif %}

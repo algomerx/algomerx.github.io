@@ -1,5 +1,5 @@
 title: Algomerx
-description: Enables composable enterprise with algorithmic business thinking
+description: Enables composable enterprise with algorithmic business
 logo: assets/img/algomerx_logo.png
 
 theme: jekyll-theme-minimal
@@ -7,5 +7,6 @@ theme: jekyll-theme-minimal
 github:
   is_user_page: false
   is_project_page: false
+show_twitter_message_button: false
 show_downloads: false
 show_theme_info: false

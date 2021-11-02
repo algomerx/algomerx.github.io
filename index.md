@@ -12,7 +12,7 @@ Digitizes, converts and compresses files in your document archives at scale. Wit
 
 ![Scalable](https://www.kofax.com/-/media/images/library/icons/yellow/capture-doc-2-yellow-2x.png?w=100&hash=516C06E53CB8B4F9C112FD737DCF1585)
 
-Whether you’re converting a handful of paper documents or millions of pages, our solutions are perfect for a single user, small business or enterprise.
+Whether you’re converting a handful of paper documents or millions of pages, our comprehensive solutions are perfect for a single user, small business or enterprise.
 
 ### Accurate and effective
 
