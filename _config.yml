@@ -7,6 +7,6 @@ theme: jekyll-theme-minimal
 github:
   is_user_page: false
   is_project_page: false
-show_twitter_message_button: true
+show_twitter_message_button: false
 show_downloads: false
 show_theme_info: false
